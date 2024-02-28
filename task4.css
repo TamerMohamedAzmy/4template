@@ -1,0 +1,49 @@
+body{
+    margin:0;
+}
+.left{width:20%;position:fixed;top:0;left:0;height:100vh;color:white;background-color:#f44336;}
+.left h1{padding:30px;padding-left:50px;padding-top:50px;}
+.link{ list-style:none;padding:30px;font-family:""Poppins", sans-serif";font-size:20px;padding-left:50px;}
+a{text-decoration:none;line-height:50px;color:white;width:90%;}
+li:hover a{background-color: white;color: black;padding-left:5px;width:100%;display:inline-block;}
+.right{width:80%;float:right;}
+.Container{width:79%;margin:auto;}
+.title1 h1{font-size:64px;font-family: ""poppins",sans-serif";}
+.title1 h2{font-size: 50px;font-family:""poppins",sans-serif" ;color: #f44336;}
+.title1 hr{background-color:white;width:50px;border:5px solid #f44336;margin-left:0;border-radius:4px;height:0.5px;}
+.child{width:50%;float:left;}
+.child img{width:97%;margin:4px;}
+.title2{clear: both;padding-top: 50px;}
+.title2 h1{font-size:50px;color: #f44336;font-family:""poppins",sans-serif";}
+.title2 hr{background-color:white;width:50px;border:5px solid #f44336;margin-left:0;border-radius:4px;}
+.title3{padding-top: 50px;}
+.title3 h1{font-size:50px;color: #f44336;font-family:""poppins",sans-serif";}
+.title3 hr{background-color:white;width:50px;border:5px solid #f44336;margin-left:0;border-radius:4px;}
+.parent1{width:100%;}
+.parent1 h1{padding-left:120px;font-family:""poppins",sans-serif";}
+.child1{width:33.333%;float:left;}
+.all{background-color: gainsboro;padding: 10px;margin:5px;}
+.child1 img{width:100%;}
+.name{font-size:25px;font-family:""poppins",sans-serif";}
+.work{font-size:15px;font-family:""poppins",sans-serif";}
+.text{font-family:""poppins",sans-serif";font-size:20px;}
+.title4{clear: both;padding-top: 50px;}
+.title4 h1{font-size:50px;font-family: ""poppins",sans-serif";color: #f44336;}
+.title4 hr{background-color:white;width:50px;border:5px solid #f44336;margin-left:0;border-radius:4px;height:0.5px;}
+.table{width:50%;float:left;text-align: center;}
+table{width:97%;height:600px;background-color:gainsboro;}
+.t2 th{background-color:red ;font-size: 30px;}
+.t1 th{background-color:gray;font-size: 30px;}
+td{font-size:20px;}
+strong{background-color:white;padding: 10px;font-family:""poppins",sans-serif";}
+strong:hover{background-color:black;color:white;padding: 10px;}
+.t2 b{background-color: red;padding:10px;font-family: ""poppins",sans-serif";}
+.t2 b:hover{background-color:black;color: white;padding:10px;}
+.title5 h1{font-size: 50px;font-family:""poppins",sans-serif";color: #f44336;padding-top:80px;clear: both;}
+.title5 hr{background-color:white;width:50px;border:5px solid #f44336;margin-left:0;border-radius:4px;height:0.5px;}
+input{width:100%;height: 40px;}
+.message{background-color:red;width:100%;padding: 5px;text-align: center;margin-top:20px;padding:10px 10px;color:white;}
+.message:hover{background-color:aliceblue;color: black;}
+.right2{width:80%;float:right;clear: both;height:120px;background-color:gainsboro;margin-top:90px;text-align: right;}
+.right2 a{color:black;text-decoration: underline;font-family:""poppins",sans-serif" ;}
+.end{padding-top:40px;padding-right:60px;}
